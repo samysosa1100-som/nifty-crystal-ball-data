@@ -1,0 +1,10 @@
+{
+  "date": "2025-11-10",
+  "forecast_close": 25495.47774806528,
+  "actual_close": NaN,
+  "prev_actual_close": NaN,
+  "absolute_error": NaN,
+  "error_pct": NaN,
+  "source": "PP3b Residual_RC (Direct)",
+  "generated_at_ist": "2025-11-09T20:06:33.422467+05:30"
+}
